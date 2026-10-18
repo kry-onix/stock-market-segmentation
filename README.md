@@ -19,7 +19,7 @@ AnnualIncome, Volatility, TradingVolume, PERatio
 
 Silhouette : 0.642 (k=2), 0.433 (k = 3)
 
-![clusters](pca.clusters.png)
+![clusters](pca_clusters.png)
 ![elbow](elbow.png)
 
 ## Limitations 
